@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+}
+
+.btn {
+    width: 50px;
+    height: 3em;
+    text-align: center;
+    border-radius: 50px;
+    font-size: 15px;
+    font-weight: 800;
+    background-color: rgb(44, 43, 43);
+    color: white;
+}
+
+#omo {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 25px;
+}
+
+#ohwell {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 25px
+}
+
+.text {
+    width: 11em;
+    height: 50px;
+    border-radius: 15px;
+    color: white;
+    background-color: black;
+    border-color: rgb(44, 43, 43);
+    font-size: medium;
+
+}
+
+#equal {
+    background-color: rgb(88, 25, 88);
+    color: black;
+}
+
+#clear {
+    background-color: rgb(167, 165, 165);
+    color: black;
+}
+
+h2 {
+    color:rgb(44, 43, 43) ;
+    text-align: center;
+}
